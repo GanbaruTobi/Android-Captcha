@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CaptchaLogin</string>
+    <string name="CaptchaRequestURL">Hier requestUrl</string>
+    <string name="CaptchaResponseURL">Hier responseUrl</string>
+
+    <string name="textViewTextCaptchaDescription">Please enter the captcha code in the input field below</string>
+    <string name="editTextCaptchaInputHintText">Enter captcha</string>
+    <string name="editTextCaptchaEmptyError">Field cannot be left blank.</string>
+    <string name="buttonTextSubmit">Submit</string>
+    <string name="buttonTextRefresh">Refresh</string>
+    <string name="name">Name: </string>
+    <string name="surname">Surname: </string>
+    <string name="timestamp">Time: </string>
+    <string name="amount">Amount: </string>
+</resources>
